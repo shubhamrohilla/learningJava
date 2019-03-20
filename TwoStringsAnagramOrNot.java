@@ -17,6 +17,7 @@ public class TwoStringsAnagramOrNot{
 		str2=str2.replaceAll(" ", "");
 	
 		/*
+		 info:
 		check if the length of both string are same or not
 		if not then "not anagram"
 		if same then calculate ascii value of both string and compare them
